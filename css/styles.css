@@ -188,6 +188,11 @@ footer a:hover {
     margin-bottom: 10px;
   }
 }
+.skill-item {
+    width: 4%;
+    height: 4%;
+    margin-right: 2%;
+}
 
 /* Work Experience
 ------------------------------------*/
